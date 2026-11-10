@@ -1,0 +1,10 @@
+{
+    "name": "Bank Tags Pro",
+    "version": "0.13.0",
+    "hasRibbonIcon": true,
+    "contactEmailAddress": "your.email@example.com",
+    "requiredDependencies": {},
+    "optionalDependencies": {},
+    "requiredPermissions": [],
+    "optionalPermissions": []
+}
