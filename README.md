@@ -7,6 +7,10 @@ then pick a tag in a small tab next to the bank and every item with that tag lig
 > Inspired by the Bank Tags plugin of RuneLite (OSRS). Not affiliated with or endorsed by Jagex.
 > English | [Português](README.pt-BR.md)
 
+## Project Status: Discontinued
+
+Development of Bank Tags Pro has been discontinued. The project is preserved as a portfolio and learning project, showcasing its implementation using the RuneScape 3 Plugin API.
+
 ## Demo
 
 ![Creating a tag, tagging items with the menu and Select mode, then changing the outline style and colour](docs/media/creating-tag.gif)
