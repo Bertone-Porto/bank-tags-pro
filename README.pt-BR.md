@@ -7,6 +7,10 @@ tags, escolha uma tag numa pequena aba ao lado do banco e todos os itens daquela
 > Inspirado no plugin Bank Tags do RuneLite (OSRS). Sem ligação com a Jagex.
 > [English](README.md) | Português
 
+## Status do projeto: Descontinuado
+
+O desenvolvimento do Bank Tags Pro foi encerrado. O projeto permanece público como parte do meu portfólio e como registro de aprendizado, demonstrando sua implementação utilizando a API de plugins do RuneScape 3.
+
 ## Demonstração
 
 ![Criando uma tag, marcando itens pelo menu e pelo modo Select e trocando o estilo e a cor do contorno](docs/media/creating-tag.gif)
