@@ -7,6 +7,12 @@ then pick a tag in a small tab next to the bank and every item with that tag lig
 > Inspired by the Bank Tags plugin of RuneLite (OSRS). Not affiliated with or endorsed by Jagex.
 > English | [Português](README.pt-BR.md)
 
+## Demo
+
+![Creating a tag, tagging items with the menu and Select mode, then changing the outline style and colour](docs/media/creating-tag.gif)
+
+*Create a tag, add items with the menu and Select mode, then change the outline style and colour.*
+
 ## Features
 
 - **Side tab next to the bank**: one button per tag. Click a tag and the bank items that carry it
@@ -72,6 +78,7 @@ plugin/bank-tags-pro/      the plugin itself (copy this folder to dev_plugins)
   plugin.json              plugin manifest
   src/                     one module per concern (see docs/ARCHITECTURE.md)
 docs/                      architecture, API notes, troubleshooting, publishing checklist
+docs/media/                GIFs used by the README
 scripts/package.py         builds dist/bank-tags-pro-<version>.zip
 scripts/check_lua.py       heuristic static checker (works without a Lua interpreter)
 ```

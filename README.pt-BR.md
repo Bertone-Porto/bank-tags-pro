@@ -7,6 +7,12 @@ tags, escolha uma tag numa pequena aba ao lado do banco e todos os itens daquela
 > Inspirado no plugin Bank Tags do RuneLite (OSRS). Sem ligação com a Jagex.
 > [English](README.md) | Português
 
+## Demonstração
+
+![Criando uma tag, marcando itens pelo menu e pelo modo Select e trocando o estilo e a cor do contorno](docs/media/creating-tag.gif)
+
+*Criar uma tag, adicionar itens pelo menu e pelo modo Select e trocar o estilo e a cor do contorno.*
+
 ## Funções
 
 - **Aba ao lado do banco**: um botão por tag. Clique numa tag e os itens do banco com ela brilham
@@ -76,6 +82,7 @@ plugin/bank-tags-pro/      o plugin (copie esta pasta para dev_plugins)
   plugin.json              manifesto do plugin
   src/                     um módulo por responsabilidade (veja docs/ARCHITECTURE.md)
 docs/                      arquitetura, notas da API, solução de problemas, checklist de publicação
+docs/media/                GIFs usados nos READMEs
 scripts/package.py         gera dist/bank-tags-pro-<versão>.zip
 scripts/check_lua.py       verificador estático heurístico (funciona sem interpretador Lua)
 ```
